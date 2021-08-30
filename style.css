@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+/* Light Colors */
 :root {
   --background-color: #e5e5e8;
   --title-color: #171924;
@@ -11,6 +12,7 @@
   --button-color: #3861fb;
 }
 
+/* Dark Colors */
 :root .dark-mode {
   --background-color: #191a1f;
   --title-color: #fefefe;
